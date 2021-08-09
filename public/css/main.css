@@ -78,6 +78,10 @@ header {
     padding: 0 1%;
 }
 
+#createPost {
+    padding: 0px 9px;
+}
+
 main {
     flex: 1;
     padding: 2% 4%;
