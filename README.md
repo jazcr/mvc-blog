@@ -13,7 +13,7 @@
 <br>  
 <br> 
 
-#### [Link to App]()
+#### [Link to App](https://quiet-peak-61979.herokuapp.com)
 <br>
 
 ## Table of Contents: 
@@ -39,8 +39,9 @@ If you are cloning this repo, make sure that you have a .env file to store your 
 ## :book: Usage Info:
 <br>
 To use this app, open up this live Heroku link: <br>
-
-<br> To add comments and blog posts of your own, simply create an account with a username, email and passoword. From there, click the green "Create New Post" button to create a post! To comment on another person's post, click on the "Comments" label on the bottom-right of the post and enter your comment! You can log out by clicking the red "Logout" button, otherwise, you will be logged out automatically after 10 minutes of inactivity.
+https://quiet-peak-61979.herokuapp.com/
+<br>
+<br>To add comments and blog posts of your own, simply create an account with a username, email and passoword. From there, click the green "Create New Post" button to create a post! To comment on another person's post, click on the "Comments" label on the bottom-right of the post and enter your comment! You can log out by clicking the red "Logout" button, otherwise, you will be logged out automatically after 10 minutes of inactivity.
 <br>
 
 
