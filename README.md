@@ -3,7 +3,12 @@
 
 [![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Screenshot of HTML page]()
+![Screenshot of Homepage](https://github.com/jazcr/mvc-blog/blob/bd848c4fd3f760fabe4f77d80af94be2d6ffbaa1/Assets/Homepage.JPG) 
+<br>
+<br>
+<br>
+<br>
+![Screenshot of Dashboard](https://github.com/jazcr/mvc-blog/blob/bd848c4fd3f760fabe4f77d80af94be2d6ffbaa1/Assets/dashboard.JPG) 
 
 <br>  
 <br> 
